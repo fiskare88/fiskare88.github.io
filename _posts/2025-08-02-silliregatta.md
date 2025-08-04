@@ -9,7 +9,19 @@ tags:
   - tapahtumat
 header:
   image: /assets/images/silliregatta-sjoman-1.jpeg
-
+gallery:
+  - url: /assets/images/silliregatta-sjoman-2.jpeg
+    image_path: /assets/images/silliregatta-sjoman-2.jpeg
+    alt: "placeholder image 1"
+    title: "Image 1 title caption"
+  - url: /assets/images/silliregatta-sjoman-3.jpeg
+    image_path: /assets/images/silliregatta-sjoman-3.jpeg
+    alt: "placeholder image 2"
+    title: "Image 2 title caption"
+  - url: /assets/images/silliregatta-sjoman-4.jpeg
+    image_path: /assets/images/silliregatta-sjoman-4.jpeg
+    alt: "placeholder image 3"
+    title: "Image 3 title caption"
 ---
 
 Verkkoveneet ovat saariston alueella käytettyjä talonpoikaisveneitä. Usein käytettyjä nimityksiä on myös perinnevene taikka saaristolaisvene. Joka tapauksessa kyse on puuveneestä, joka on suunniteltu ja joskus jopa rakennettu ennen venemoottorien aikakautta. Paikallinen Harro Koskinen on julkaissut asiasta kirjan vuonna 2021: [Talonpoikaisveneet Saaristomerellä][kirja-saaristolaisveneet].
