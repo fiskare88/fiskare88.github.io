@@ -1,7 +1,7 @@
 main:
   - title: "Postit"
     url: /posts/
-  - title: "kategoriat"
+  - title: "Kategoriat"
     url: /categories/
   - title: "Tagit"
     url: /tags/
