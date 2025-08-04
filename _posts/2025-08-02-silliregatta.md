@@ -35,7 +35,7 @@ Tänä vuonna Röölässä näkyi noin 15 perinnevenettä, joista näissä kuvis
 
 {% include gallery caption="Perinnevene **Sjömän** vauhdissa kohti Röölää (ei osallistunut kilpailuun)." %}
 
-Silliregatta-tapahtumalle on verkkosivut Röölän kylän [kyläyhdistyksen][roola-yhdistys] verkkosivuilla. 
+Silliregatta-tapahtumalle on sivu Röölän kylän [kyläyhdistyksen][roola-yhdistys] verkkosivuilla. 
 Tämän vuoden [tapahtumaesite ja kilpailutulokset][roola-silliregatta-2025] löytyvät tapahtumasivuilta.
 
 [roola-yhdistys]: https://roola.fi
