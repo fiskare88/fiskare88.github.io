@@ -23,4 +23,4 @@ Tämän vuoden [tapahtumaesite ja kilpailutulokset][roola-silliregatta-2025] lö
 
 [roola-yhdistys]: https://roola.fi
 [roola-silliregatta-2025]: https://roola.fi/Roolan_Kesa_2025/Roolan_kesa_2025/Roolan_Silliregatta.html
-[kirja-saaristolaisveneet]
+[kirja-saaristolaisveneet]: https://www.finna.fi/Record/vaski.4099474?sid=5104155652
