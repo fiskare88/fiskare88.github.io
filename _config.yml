@@ -58,6 +58,8 @@ plugins:
   - jemoji
   - jekyll-include-cache
 
+repository: "fiskare88/fiskare88.github.io"
+
 comments:
   provider: "utterances"
   utterances:
