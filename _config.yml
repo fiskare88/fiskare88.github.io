@@ -24,7 +24,7 @@ github_username: username
 minimal_mistakes_skin: air
 search: true
 url: "https://aaslaluodolla.org"
-locale: "fi"
+locale: "fi-FI"
 
 # Build settings
 markdown: kramdown
