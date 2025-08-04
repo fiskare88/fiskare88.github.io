@@ -14,6 +14,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 title: Aaslaluodolla
+site.locale: "fi"
 email:
 description: >- # this means to ignore newlines until "baseurl:"
   Tapahtuu Aaslaluodolla. Lyhyitä tekstejä ja kuvia Rymättylän Aaslaluodolta
@@ -23,7 +24,6 @@ github_username: username
 minimal_mistakes_skin: air
 search: true
 url: "https://aaslaluodolla.org"
-locale: "fi-FI"
 
 # Build settings
 markdown: kramdown
