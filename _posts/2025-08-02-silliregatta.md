@@ -26,9 +26,10 @@ gallery:
 
 Verkkoveneet ovat saariston alueella käytettyjä talonpoikaisveneitä. Usein käytettyjä nimityksiä on myös perinnevene taikka saaristolaisvene. Joka tapauksessa kyse on puuveneestä, joka on suunniteltu ja joskus jopa rakennettu ennen venemoottorien aikakautta. Paikallinen Harro Koskinen on julkaissut asiasta kirjan vuonna 2021: [Talonpoikaisveneet Saaristomerellä][kirja-saaristolaisveneet].
 
-Silliregatta on näillä perinneveneillä kisattava pienimuotoinen kilpailu Röölän kylässä. 
+Silliregatta on näillä perinneveneillä kisattava pienimuotoinen kilpailu Röölän kylässä. Aurinkoinen sää oli saanut ihmiset liikkeelle!
 Tänä vuonna Röölässä näkyi noin 15 perinnevenettä, joista näissä kuvissa yksi, kaksimastoinen, spriipurjeinen SJÖMAN.
 
+{% include gallery caption="Perinnevene **Sjömän** vauhdissa kohti Röölää (ei osallistunut kilpailuun)." %}
 
 Silliregatta-tapahtumalle on verkkosivut Röölän kylän [kyläyhdistyksen][roola-yhdistys] verkkosivuilla. 
 Tämän vuoden [tapahtumaesite ja kilpailutulokset][roola-silliregatta-2025] löytyvät tapahtumasivuilta.
