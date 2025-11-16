@@ -21,7 +21,7 @@ description: >- # this means to ignore newlines until "baseurl:"
   ja ympäristöstä saaristomereltä.
 twitter_username: username
 github_username: username
-minimal_mistakes_skin: dark
+minimal_mistakes_skin: dirt
 search: true
 url: "https://aaslaluodolla.org"
 logo: "/assets/images/logo88x88.png"
