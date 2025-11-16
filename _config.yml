@@ -24,6 +24,8 @@ github_username: username
 minimal_mistakes_skin: air
 search: true
 url: "https://aaslaluodolla.org"
+logo: "/assets/images/logo88x88.png"
+
 
 # Build settings
 markdown: kramdown
